@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "193699807419",
+    "project_id": "mobisor-1606",
+    "storage_bucket": "mobisor-1606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193699807419:android:656a4d2b59647f7bd6e99e",
+        "android_client_info": {
+          "package_name": "com.example.quizzledemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193699807419-u2g04kshvf4e71f9c5j34v5k6j2epbjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6JtIvXrAv-DtJojoPmm6K904jLlfKk9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193699807419-u2g04kshvf4e71f9c5j34v5k6j2epbjo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193699807419-kb14b38jai13cj0fjmelol8jgsvfv78r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codefox.quizzle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
