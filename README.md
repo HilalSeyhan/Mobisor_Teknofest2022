@@ -5,4 +5,4 @@ TEKNOFEST 2022 Turizm Teknolojileri kategorisinde yarışmak için yapılmış, 
 
 Kullanılan Dil, Araç ve Teknolojiler: FLUTTER, ANIMATION, 2 KATMAN, OOP, CRUD, ADOBE ILLUSTRATOR, FIREBASE, REALTIME, AUTHENTICATION, STORAGE, CRUD
 
-✨ Proje Teknofest 2022 Turizm Teknolojileri Kategorisinde 8. Oldu ✨
+✨ Proje Teknofest 2022 Turizm Teknolojileri kategorisinde 8. oldu. Uygulamanın tanıtım videosu depoda yer almaktadır. ✨
